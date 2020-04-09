@@ -1,0 +1,60 @@
+$button-color:rgb(71, 40, 29);
+$footer-color:rgb(36, 37, 18);
+$header-color:rgb(232, 235, 198);
+
+
+body{
+  background-color:rgba(0, 0, 0, 0.356);
+  background-size: cover;
+
+}
+
+button{
+border: 1px solid $button-color;
+border-radius: 12px;
+box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+color: $button-color;
+cursor: pointer;
+font-size: 20px;
+padding: 15px 32px;
+margin-left: 25%;
+margin-right: 25%;
+margin-top: 10px;
+transition: 900ms;
+width: 50%;
+}
+
+
+button:hover {
+  background-color:rgb(77, 80, 45); 
+  color: white;
+  transition: 900ms;
+}
+
+footer{
+  color: $footer-color;
+  font-size: 20px;
+  margin-top: 20%;
+  text-align: center;
+}
+
+
+h3{
+  color: $header-color;
+  text-align: center;
+  text-shadow: 2px 1px black;
+}
+
+
+header{
+  color: $header-color;
+  margin-top: 10px;
+  text-align: center;
+  text-shadow: 4px 4px black;
+}
+
+html{
+ background-image: url(https://images.sharefaith.com/images/3/1299632368030_293/img_mouseover3.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
