@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/maialshagarin/react-Testing-and-Deployment/issues"
   },
-  "homepage": "https://maialshagarin.github.io/react-Testing-and-Deployment/",
+  "homepage": "/",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",

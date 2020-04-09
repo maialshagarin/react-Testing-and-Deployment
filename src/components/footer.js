@@ -5,7 +5,7 @@ class Footer extends React.Component {
   render() {
     return (
       <footer>
-                @mai-2020 555555
+                @mai-2020 
       </footer>
     );
   }
