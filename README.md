@@ -9,6 +9,10 @@ Mai yusuf
 2. deploy App in gh-pages.
 3. deploy app in metifly.  
 
+## links to deploy app :
+Netifly ======> https://practical-tesla-e91000.netlify.com .
+gh-pages ======> https://maialshagarin.github.io/react-Testing-and-Deployment/
+
 ## Available Scripts
 In the project directory, you can run:
 
