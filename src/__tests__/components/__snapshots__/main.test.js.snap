@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main/> renders correctly 1`] = `
+<div>
+  <h3>
+    the number is : 
+    0
+     
+  </h3>
+  <h3>
+     polarity : 
+  </h3>
+  <section>
+    <button
+      className="plusClicker"
+      onClick={[Function]}
+    >
+      Click Me To Increase
+    </button>
+  </section>
+  <section>
+    <button
+      className="minusCliker"
+      onClick={[Function]}
+    >
+      Click Me To decrease
+    </button>
+  </section>
+</div>
+`;
